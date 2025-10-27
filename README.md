@@ -63,6 +63,5 @@ I love bringing ideas to life — from backend logic to beautifully crafted and 
 
 ## 📫 Let's Connect
 
-- 💼 [www.linkedin.com/in/iván-lorenzo-ruiz](#)  
-- 🌐 [Portfolio / Website](#)  
+- 💼 [www.linkedin.com/in/iván-lorenzo-ruiz](#)   
 - ✉️ [ivanlorenzolr@gmail.com](#)
