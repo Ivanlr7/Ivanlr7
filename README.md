@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm I
+# 👋 Hi there
 
 I'm a **Full Stack Developer** with a passion for technology and a creative approach to problem-solving.  
 I love bringing ideas to life — from backend logic to beautifully crafted and detail-oriented frontend interfaces.
