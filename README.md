@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">About Me</h1>
+<h1 align="left">About Me</h1>
 <p>I'm Iván, a Full Stack Developer with a lot of creativity to solve problems curiosity about technology.</p>
 
 - 📫 How to reach me **ivanlorenzolr@gmail.com**
